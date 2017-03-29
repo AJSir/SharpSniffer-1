@@ -1,0 +1,12 @@
+<filter PortExluded="True" AddressExcluded="True" DataOnly="False">
+  <protocollist>
+    <ProtocolType>Tcp</ProtocolType>
+    <ProtocolType>Udp</ProtocolType>
+  </protocollist>
+  <portlist>
+    <port>3389</port>
+  </portlist>
+  <iplist>
+    <ip>10.0.0.0/255.0.0.0</ip>
+  </iplist>
+</filter>

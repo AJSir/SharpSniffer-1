@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<filter PortExluded="False" AddressExcluded="False" DataOnly="False">
+  <protocollist>
+    <ProtocolType>Tcp</ProtocolType>
+  </protocollist>
+  <portlist>
+    <port>80</port>
+  </portlist>
+  <iplist />
+</filter>
